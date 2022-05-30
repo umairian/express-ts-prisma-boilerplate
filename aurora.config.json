@@ -1,0 +1,4 @@
+{
+    "files": ["./models/index.prisma", "./models/user.prisma"],
+    "output": "./schema.prisma"
+}
