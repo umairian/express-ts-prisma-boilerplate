@@ -1,6 +1,6 @@
-# Blood Connect Backend
+# Boilerplate of Express with TypeScript and Prisma
 
-- Blood Connect Backend Application - Node with TypeScript
+- Boilerplate Application - Express with TypeScript & Prisma
 
 ## Pre requisites
 
